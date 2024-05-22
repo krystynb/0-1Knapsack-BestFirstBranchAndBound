@@ -10,17 +10,31 @@ stating the items that should be included in the knapsack and the total weight a
 knapsack.
 
 Example Data (knapSack1.txt)
+
 7
+
 15
+
 A 25 5
+
 B 45 11
+
 C 12 3
+
 AA 7 2
+
 BB 6 2
+
 CC 10 7
+
 AAA 5 4
 
+
 Output:
+
 Item included in knapsack: B, AA, BB
+
 Total weight = 15
+
 Total value = 58
+
